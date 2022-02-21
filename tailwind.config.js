@@ -1,6 +1,8 @@
 module.exports = {
-  purge: [],
-  darkMode: false, // or 'media' or 'class'
+    conten: ["./resources/**/*.blade.php",
+  "./resource/**/*.js",
+  "./resource/**/*.vue",
+],
   theme: {
     extend: {},
   },
