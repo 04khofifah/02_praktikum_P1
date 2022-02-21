@@ -23,7 +23,7 @@
 					<p class="text-white font-extrabold text-3xl md:text-5xl">
 						👻 Ghostwind CSS
 					</p>
-					<p class="text-xl md:text-2xl text-gray-500">Welcome to my Blog</p>
+					<p class="text-xl md:text-2xl text-gray-500">Welcome to my Blog Hello Word</p>
 			</div>
 		</div>
 
