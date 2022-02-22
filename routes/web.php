@@ -25,4 +25,7 @@ Route::get('/index', function () {
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/app', function () {
+    return view('app');
+});
 //membuat halaman folder viwe index
