@@ -13,7 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/post', function () {
+    return view('post');
+});
+Route::get('/post_vue', function () {
+    return view('post_vue');
+});
+Route::get('/index', function () {
     return view('index');
 });
 Route::get('/', function () {
